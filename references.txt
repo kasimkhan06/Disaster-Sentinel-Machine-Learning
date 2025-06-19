@@ -1,0 +1,2 @@
+CAMELS DATASET : https://essd.copernicus.org/articles/17/461/2025/essd-17-461-2025-discussion.html , https://essd.copernicus.org/articles/17/461/2025/
+INDOFLOODS DATASET : https://journals.ametsoc.org/view/journals/bams/106/2/BAMS-D-24-0008.1.xml
